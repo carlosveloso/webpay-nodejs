@@ -5,12 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "decimal.js-light": "^2.5.0",
+    "ejs": "^2.6.2",
     "node-uuid": "^1.4.8",
     "pem": "^1.14.2",
     "soap": "^0.28.0",
     "ursa-purejs": "0.0.3",
-    "xmldom": "^0.1.27",
-    "xml-crypto": "^1.4.0"
+    "xml-crypto": "^1.4.0",
+    "xmldom": "^0.1.27"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
